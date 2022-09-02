@@ -1,4 +1,4 @@
-### Olá, tudo bem sou o Carlos Jefferson sou desenvolvedor Full Stack!
+### Olá, tudo bem sou o Carlos Jefferson, desenvolvedor Full Stack!
 
 ##
 
