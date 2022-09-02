@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009C8A&vCenter=true&width=435&height=100&lines=Ol%C3%A1%2C+tudo+bem+sou+o+Carlos+Jefferson;Desenvolvedor+Full+Stack!" alt="Typing SVG" /></a>
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009C8A&vCenter=true&width=435&height=100&lines=Ol%C3%A1%2C+tudo+bem+sou+o+Carlos+Jefferson;Desenvolvedor+Full+Stack!" alt="Typing SVG" /></a>
+</div>
+
 
 ##
 
